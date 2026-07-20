@@ -1,4 +1,4 @@
-Project 1 submission
+##Project 1 submission##
 This repository contains the analysis and predictive modeling for Project 1.
 
 ## How to Run the Script ##
